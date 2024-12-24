@@ -898,6 +898,6 @@ nav{
 }
 .Box4:hover{
     transform: scale(1.04);
-    filter: brightness(90%);
+    filter: brightness(90%l);
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.62);
 }
